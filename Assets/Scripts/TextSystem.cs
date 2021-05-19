@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 
-
 public class TextSystem
 {
     public TextSystem(IStepChangeNotifable notifable)
