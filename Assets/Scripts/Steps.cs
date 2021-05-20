@@ -14,15 +14,17 @@ public class Steps : ISteper, IStepChangeNotifable
         _steps = steps.Select(nameStep => new Step(nameStep)).ToList();
     }
     
-    public void Next()
+    public List<Step> Next()
     {
         SetIndex(_index + 1);
+        return _steps;
     }
 
-    public void Change(string step)
+    public List<Step> Change(string step)
     {
         Step nextStep = new Step(step);
         SetIndex(_steps.IndexOf(nextStep));
+        return _steps;
     }
 
     private void SetIndex(int index)

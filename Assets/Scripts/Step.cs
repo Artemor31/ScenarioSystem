@@ -1,24 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
 public struct Step
 {
-    private IEnumerable<int> _subSteps;
+    private readonly IEnumerable<int> SubSteps;
  
-    public Step(string step)
+    public Step(string step) : this()
     {
-        _subSteps = step.Split(new[] {','}, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
+        SubSteps = GetSteps(step);
     }
     
     public bool IsEqual(string step)
     {
-        var steps = step.Split(new[] {','}, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
-        return _subSteps.SequenceEqual(steps);
+        var steps = GetSteps(step);
+        return SubSteps.SequenceEqual(steps);
     }
 
     public override string ToString()
     {
-        return string.Join(".", _subSteps.ToArray());
+        return string.Join(".", SubSteps.ToArray());
+    }
+
+    private IEnumerable<int> GetSteps(string step)
+    {
+        return step.Split(new[] {'.'}, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
     }
 }

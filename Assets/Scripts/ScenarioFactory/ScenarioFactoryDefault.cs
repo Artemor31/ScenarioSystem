@@ -1,5 +1,5 @@
 ﻿
-public class DefaultScenarioFactory : ScenarioFactory
+public class ScenarioFactoryDefault : ScenarioFactory
 {
     public override Scenario GetScenario(DataScenario data)
     {

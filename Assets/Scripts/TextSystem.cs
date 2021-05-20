@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using SimpleLocalization;
 
 public class TextSystem
 {
@@ -9,5 +10,6 @@ public class TextSystem
     
     private void Change(Step step)
     {
+        //SimpleLocalization.GetText("");
     }
 }
