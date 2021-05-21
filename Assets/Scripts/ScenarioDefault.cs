@@ -1,14 +1,16 @@
-﻿public class ScenarioDefault : Scenario
+﻿using System;
+
+public class ScenarioDefault : IScenario
 {
     private const int FirstStep = 1;
-    private readonly Steps _steps;
+    private readonly ISteper _steps;
     
-    public ScenarioDefault(DataScenario data)
+    public ScenarioDefault(ISteper steps)
     {
-        _steps = new Steps(data.Steps);
+        _steps = steps ?? throw new ArgumentException();
     }
 
-    public override void Start()
+    public void Start()
     {
         _steps.Change(FirstStep.ToString());
     }

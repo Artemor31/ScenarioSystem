@@ -1,9 +1,14 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
-public class TrainSetup : MonoBehaviour, ITrainSetter
+public class TrainSetup : MonoBehaviour
 {
-    public void SetupStep(Step step)
+    [SerializeField] private DataScenario _data;
+
+    private void OnEnable()
     {
-        
+        new ScenarioServiceInstaller(_data).TextSystemInit<TextSystem>(null);
     }
 }
+
+

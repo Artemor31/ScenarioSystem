@@ -8,6 +8,9 @@ public struct Step
  
     public Step(string step) : this()
     {
+        if (Steps.IsValidatedStepRegex(step) == false)
+            throw new ArgumentException();
+        
         SubSteps = GetSteps(step);
     }
     
@@ -19,11 +22,11 @@ public struct Step
 
     public override string ToString()
     {
-        return string.Join(".", SubSteps.ToArray());
+        return string.Join(StepsHelper.Separator, SubSteps.ToArray());
     }
 
     private IEnumerable<int> GetSteps(string step)
     {
-        return step.Split(new[] {'.'}, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
+        return step.Split(new[] { StepsHelper.Separator }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
     }
 }

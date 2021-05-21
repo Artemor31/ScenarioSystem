@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
-public interface ISteper
+public interface ISteper : IStepChangeNotifable
 {
-    List<Step> Next();
-    List<Step> Change(string step);
+    Step Next();
+    Step Change(string step);
 }
