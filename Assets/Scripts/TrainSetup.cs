@@ -7,7 +7,11 @@ public class TrainSetup : MonoBehaviour
 
     private void OnEnable()
     {
-        new ScenarioServiceInstaller(_data).TextSystemInit<TextSystem>(null);
+        var installer = new ScenarioServiceInstaller(_data);
+        var steps = installer.Service.Steps;
+        var textSystem = new TextSystem(steps);
+        
+        installer.TextSystemInit(textSystem, null);
     }
 }
 

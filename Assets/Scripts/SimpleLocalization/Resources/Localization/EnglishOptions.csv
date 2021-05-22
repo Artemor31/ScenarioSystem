@@ -1,0 +1,39 @@
+Key,Russian,English,German,French,Portuguese,Spanish,Italian,Romanian,Turkish,Polish,Czech,Korean,Chinese,ChineseTraditional,BrazilianPortuguese
+EnglishOptions1,Настройки,Options,Einstellungen,Options,Opções,Ajustes,Opzioni,Opțiuni,Ayarlar,Opcje,Nastavení,설정,选项,選項,Opções
+EnglishOptions2,ПРИМЕНИТЬ,APPLY,ANWENDEN,APPLIQUER,APLICAR,APLICAR,APPLICA,APLICĂ,UYGULA,AKCEPTUJ,POUŽÍT,적용,应用,應用,APLICAR
+EnglishOptions3,Показать FPS,Show FPS,Zeige FPS,Afficher les FPS,Mostrar FPS,Mostrar FPS,Mostra FPS,Arată CPS,FPS’i göster,Pokaż FPS,Zobrazit FPS,FPS 표시,显示每秒帧数,顯示每秒幀數,Mostrar FPS
+EnglishOptions4,Чувствительность мыши,Mouse Sensitivity,Mausempfindlichkeit,Sensibilité de la souris,Sensibilidade do Cursor,Sensibilidad del cursor,Sensibilità del mouse,Sensibilitate mouse,Fare Hassasiyeti,Czułość myszki,Citlivost myši,마우스 감도,鼠标灵敏度,鼠標靈敏度,Sensibilidade do mouse
+EnglishOptions5,Качество графики,Graphics quality,Grafikeinstellungen,Qualité du jeu,Qualidade gráfica,Calidad de gráficos,Qualità del gioco,Calitate grafică,Grafik Kalitesi,Jakość gry,Kvalita hry,그래픽 품질,画质,畫質,Qualidade gráfica
+EnglishOptions6,Разрешение,Resolution,Auflösung,Résolution,Resolução da Tela,Resolución,Risoluzione,Rezoluție,Çözünürlük,Rozdzielczość,Rozlišení,해상도,分辨率,分辨率,Resolução
+EnglishOptions7,Сглаживание,Anti-aliasing,Kantenglättung,Anti-aliasing,Anti-aliasing,Antialiasing,Antialiasing,Antialiasing,Kenar Yumuşatma (Anti Aliasing),Antialiasing,Antialiasing,안티앨리어싱,抗锯齿,抗鋸齒,Anti-aliasing
+EnglishOptions8,Анизотропия,Anisotropic Filtering,Anisotropischer Filter,Filtre anisotrope,Filtro anisotrópico,Filtrado anisotrópico,Filtro anisotropico,Filtru anisotropic,Anizotropik Filtreleme,Filtrowanie anisotropowe,Anizotropní filtrování,비등방성 필터링,各向异性过滤,各向異性過濾,Filtro Anisotrópico
+EnglishOptions9,Качество текстур,Texture quality,Texturen,Qualité des textures,Qualidade de texturas,Calidad de textura,QUALITÀ DELLE TEXTURE,Calitate texturi,Doku Kalitesi,Jakość tekstur,Kvalita textur,텍스쳐 품질,纹理,紋理,Qualidade da textura
+EnglishOptions10,Верт. синхронизация,V-Sync,Vertikale Synchronität,Synchronisation verticale,V-Sync,Sincronización Vertical,VSYNC,Sincronizare Verticală,Dikey Eşitleme (V-SYNC),Synchronizacja pionowa,Vsync,수직 동기화,垂直同步,垂直同步,Sincronização Vertical
+EnglishOptions11,Полный экран,Full screen,Vollbild,Plein écran,Tela cheia,Pantalla Completa,A SCHERMO INTERO,Ecran complet,Tam Ekran,Pełen ekran,Celoobrazovkový režim,전체화면,全屏,全屏,Tela cheia
+EnglishOptions12,Громкость,Volume,Lautstärke,Volume,Volume,Volumen,Volume,Volum,Ses Düzeyi,Głośność,Hlasitost,볼륨,音量,音量,Volume
+EnglishOptions13,Звук,Sound,Soundeffekte,Son,Som,Sonido,Suono,Sunet,Ses,Dźwięk,Zvuk,사운드,声音,聲音,Som
+EnglishOptions14,Изменить,Change,Ändern,Changer,Trocar,Cambiar,Modifica,Schimbă,Değiştir,Zmień,Změnit,변경,改变,改變,Mudar
+EnglishOptions15,Язык,Language,Sprache,Langue,Linguagem,Idioma,Lingua,Limbă,Dil,Język,Jazyk,언어,语言,語言,Linguagem
+EnglishOptions16,Количество травы,Grass Density,Grassdichte,Densité de l’herbe,Densidade da grama,Densidad del Pasto,Densità dell’erba,Densitate iarbă,Çim Yoğunluğu,Odległosć trawy,Hustota trávy,잔디 밀도,草丛密度,草叢密度,Densidade da Grama
+EnglishOptions17,НАСТРОЙКИ,OPTIONS,EINSTELLUNGEN,OPTIONS,OPÇÕES,AJUSTES,OPZIONI,OPȚIUNI,AYARLAR,OPCJE,NASTAVENÍ,설정,选项,選項,OPÇÕES
+EnglishOptions18,Поворот руля на,Turning the steering wheel by °,Lenkrad um ° drehen,Tourner le volant de °,Rodando o volante pelo °,Girando el volante por °,Gira il volante di °,Rotirea volanului cu °,Direksiyonu ° döndürme,Obrót kierownicy o ° stopni,Otočit kormidlo na,핸들 ° 회전,方向盘转动°,方向盤轉動°,Girando o volante em °
+EnglishOptions19,Угол обзора,Field of View,Sichtfeld,Champ de vision,Campo de visão,Campo de visión,Campo visivo,Câmp vizual,Görüş Açısı (FOV),Pole widzenia,Zorné pole,FOV값,视野,視野,Campo de Visão
+EnglishOptions20,Вернуть настройки по умолчанию,Set Default Settings,Einstellungen zurücksetzen,Réinitialiser les paramètres,Voltar às configurações originais,Restablecer valores por defecto,Ripristina le impostazioni predefinite,Reveniți la setările implicite,Varsayılan Ayarlara Dön,Przywróć ustawienia domyślne,Obnovit na výchozí nastavení,기본값으로 설정,重置为默认设置,重置為默認設置,Restaurar Configuração Padrão
+EnglishOptions21,Отражения,Screen Space Reflections,Lenkrad um 180° drehen,Reflets d'écran,Screen Space Reflections,Reflejos del espacio de pantalla,Riflessi,Reflecții ale spațiului ecranului,Ekran Boşluğu Yansımaları,Refleksy obrazu,Odraz prostoru obrazu,실시간 반사 효과,屏幕空间反射,屏幕空間反射,Reflexões de Espaço na Tela
+EnglishOptions22,Размытие в движении,Motion Blur,Motion Blur,Flou de mouvement,Desfoque de movimento,Desenfoque de movimiento,Motion Blur,Neclaritate de miscare,Hareket Bulanıklığı (Motion Blur),Motion Blur,Pohybová neostrost,모션블러,动态模糊,動態模糊,Desfoque durante movimento
+EnglishOptions23,Эффект адаптации глаз,Eye Adaptation,Augenanpassung,Adaptation occulaire,Adaptação Ocular,Efecto de adaptación ocular,Adattamento visivo,Adaptare vedere,Göz Adaptasyonu,Adaptacja do oświetlenia,Oční adaptace,밝기 적응 효과,视觉调节,視覺調節,Adaptação Ocular
+EnglishOptions24,Свечение,Bloom,Bloom,Floraison,Brilho,Bloom,Bloom,Încețoșare,Aydınlık,Bloom,Přesvícení,블룸,高光,高光,Bloom
+EnglishOptions25,Виньетирование,Vignette,Vignette,Vignette,Vinheta,Viñeta,Vignette,Vignette,Temiz Ekran,Winieta,Vinětace,비네트,晕影,暈影,Vignette
+EnglishOptions26,Затенение,Ambient Occlusion,Umgebungsbedeckung,Occlusion ambiante,Oclusão de ambiente,Oclusión ambiental,Occlusione Ambientale,Ocluzie ambientală,Çevresel Perdeleme (Ambient Occlusion),Okluzja Otoczenia,Ambientní okluze,주위 명암조절,环境光遮蔽,環境光遮蔽,Oclusão de Ambiente
+EnglishOptions27,Выкл,Off,Aus,Désactivé,Desligado,Apagado,Off,Oprit,Kapalı,Wyłączone,Vypnuto,끄기,关闭,關閉,Desligado
+EnglishOptions28,Вкл,On,An,Activé,Ligado,Encendido,On,Pornit,Açık,Włączone,Zapnuto,켜기,开启,開啟,Ligado
+EnglishOptions29,Ультра,Ultra,Ultra,Ultra,Ultra,Extremo,Ultra,Ultra,En Yüksek,Ultra,Ultra,최고,极高,極高,Muito Alto
+EnglishOptions30,Высоко,High,Hoch,Haut,Alto,Alto,Alto,Înalt,Yüksek,Wysokie,Vysoká,높음,高,高,Alto
+EnglishOptions31,Средне,Medium,Mittel,Moyen,Médio,Medio,Medio,Mediu,Orta,Średnie,Střední,보통,中等,中等,Médio
+EnglishOptions32,Низко,Low,Gering,Bas,Baixo,Bajo,Basso,Scăzut,Düşük,Niskie,Malá,낮음,低,低,Baixo
+EnglishOptions33,Плохое,Very low,Schlecht,Le plus rapide,Muito baixo,Muy bajo,Più veloce,Cel mai scăzut,Çok Düşük,Najszybsze,Nejrychlejší,매우 낮음,最快,最快,Muito Baixo
+EnglishOptions34,Среднее,Middle,OK,Rapide,Médio,Rápido,Veloce,Mijloc,Orta,Szybkie,Rychlé,중간,一般般,一般般,Meio
+EnglishOptions35,Хорошее,Beautiful,Gut,Simple,Bonito,Simple,Semplice,Minunat,Basit,Średnie,Jednoduché,아름다움,漂亮,漂亮,Bonito
+EnglishOptions36,Нормальное,Good,Normal,Bon,Bom,Bueno,Buona,Bun,İyi,Dobre,Dobré,좋음,好,好,Bom
+EnglishOptions37,Хорошее,Beautiful,Sehr schön,Beau,Bonito,Hermoso,Bellissimo,Minunat,Harika,Piękne,Krásné,아름다움,漂亮,漂亮,Bonito
+EnglishOptions38,Прекрасное,Fantastic,Fantastisch,Fantastique,Fantastico,Fantástico,Fantastico,Fantastic,Muhteşem,Zajebiste,Fantastické,환상적인,太棒了,太棒了,Fantástico

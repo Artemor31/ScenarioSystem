@@ -1,0 +1,557 @@
+Key,Russian,English,German,French,Portuguese,Spanish,Italian,Romanian,Turkish,Polish,Czech,Korean,Chinese,ChineseTraditional,BrazilianPortuguese
+MenuMain1,СЦЕНАРИИ,SCENARIOS,SZENARIEN,SCÉNARIOS,CENÁRIOS,ESCENARIOS,SCENARI,Scenarii,SENARYOLAR,SCENARIUSZE,SCÉNÁŘE,시나리오,场景,場景,CENÁRIOS
+MenuMain2,НАСТРОЙКИ,OPTIONS,OPTIONEN,OPTIONS,OPÇÕES,AJUSTES,OPZIONI,Opțiuni,AYARLAR,OPCJE,NASTAVENÍ,설정,选项,選項,OPÇÕES
+MenuMain3,ВЫХОД,EXIT,VERLASSEN,QUITTER,SAIA DO JOGO,SALIDA,ESCI,Ieșire,ÇIKIŞ,WYJDŹ,ODEJÍT,나가기,退出,退出,SAIR
+MenuMain4,НАЗАД,BACK,ZURÜCK,RETOUR,VOLTAR,VOLVER,INDIETRO,Înapoi,GERİ,WRÓĆ,ZPĚT,뒤로가기,返回,返回,VOLTAR
+MenuMain5,АВТОРЫ,AUTHORS,AUTOREN,AUTEURS,AUTORES,AUTORES,AUTORI,Autori,GELİŞTİRİCİLER,AUTORZY,AUTOŘI,제작자,作者,作者,AUTORES
+MenuMain6,НАЧАТЬ,START,START,COMMENCER,COMEÇAR,COMENZAR,INIZIA,Start,BAŞLA,ROZPOCZNIJ,SPUSTIT,시작,开始,開始,COMEÇAR
+MenuMain7,"Для включения или выключения VR режима нажмите V.
+Для центрирования нажмите R","Press V to activate or diactivate the VR mode.
+Press R to recenter.","Drücken Sie V, um den VR-Modus zu aktivieren oder zu deaktivieren.
+Drücken Sie R , um neu zu zentrieren.","Appuyez sur V pour activer ou désactiver le mode RV.
+Appuyez sur R pour recentrer.","Pressione V para ativar ou desativar o modo VR.
+Pressione R para recentralizar.","Presione V para activar o desactivar el modo VR.
+ Presione R para centrar.","Premi V per attivare o disattivare la modalità VR. 
+Premi R per ricentrare.",Apasă V pentru a activa sau dezactiva modul VR. Apasă R pentru recentrare.,"Sanal Gerçekliği (VR) Açmak veya Kapatmak için V'ye basınız.
+Görüntüyü tekrardan ortalamak için R'ye  basınız.","Naciśnij V, aby włączyć lub wyłączyć tryb VR.
+Naciśnij R, aby ponownie ustawić.","Stiskni V pro aktivaci nebo deaktivaci VR režimu.
+Stiskni R pro vycentrování.","V를 눌러 VR모드를 키거나 끌 수 있습니다.
+R을 눌러 중앙을 정렬하세요.","按V激活或取消激活VR模式 
+按R重定位","按V激活或取消激活VR模式 
+按R重定位","Precione V pata ativar ou desativar o modo VR.
+Precione R para recentralizar."
+MenuMain8,ОБУЧЕНИЕ,TUTORIAL,TUTORIAL,TUTORIEL,TUTORIAL,TUTORIAL,TUTORIAL,TUTORIAL,BAŞLANGIÇ EĞİTİMİ,SAMOUCZEK,PRŮVODCE,튜토리얼,教学,教學,TUTORIAL
+MenuMain9,Солнцевская линия,Solntsevskaya Line,Solntsevskaya Line,Ligne Solntsevskaya,Linha Solntsevskaya,Línea Solntsevskaya,Linea Solntsevskaya,Linia Solntsevskaya,Solntsevskaya Hattı,Linia Solntsevskaya,Solntsevská linka,솔트세프스카야선,太阳线（Солнцевская линия，8A）,太陽線（Солнцевская линия，8A）,Linha Solntsevskaya
+MenuMain10,Управление поездом,Controlling the train,Den Zug kontrollieren,Contrôler le train,Controlando o Trem,Controlar el tren,Controllare il treno,Manipularea trenului,Treni Kontrol Etmek,Sterowanie pociągu,Ovládání vlaku,열차 제어,列车控制,列車控制,Controlando o trêm
+MenuMain11,Знакомство с Солнцевской линией,Getting familiar with Solntsevskaya Line,Machen Sie sich mit der Solntsevskaya Line vertraut,Se familiariser avec la ligne Solntsevskaya,Familiarizando-se com a linha Solntsevskaya,Familiarizándote con la Línea Solntsevskaya,Prendere confidenza con la Linea Solntsevskaya,Familiarizarea cu linia Solntsevskaya,Solntsevskaya Hattına Alışmak,Zapoznaj się z linią Solntsevskaya,Seznámení s Solntsevskou linkou,솔트세프스카야선에 적응하기,了解太阳线,了解太陽線,Familiarizando-se com a linha Solntsevskaya 
+MenuMain12,Человеческий фактор,Human factor,Menschlicher Faktor,Facteur humain,Fator Humano,Factor humano,Fattore umano,Factor uman,İnsan Faktörü,Czynnik ludzki,Lidský faktor,인적 요소,人为因素,人為因素,Fator Humano
+MenuMain13,Новый поезд,A new train,Nneuer Zug,Un nouveau train,Um novo trem,Un nuevo tren,Nuovo treno,Un tren nou,Yeni Bir Tren,Nowy pociąg,Nový vlak,새 열차,一架新列车,一架新列車,Um novo trem
+MenuMain14,Участок Большой Кольцевой,A part of Big Koltsevaya,Bezirk von Big Koltsevaya,Une partie de la Grande Koltsevaya,A festa do Big Ring,Una parte de la Gran Koltsevaya,Una parte di Big Koltsevaya,O parte din Big Koltsevaya,Büyük Koltsevaya'nın Bir Kısmı,Część Big Koltsevaya,Úsek velkého okruhu,대순환선의 일부분,大环线（11）的一部分,大環線（11）的一部分,Uma parte de Big Koltsevaya
+MenuMain15,Утренний рейс,Morning route,Morgenroute,Route matinale,Rota Matinal,Ruta matinal,Percorso mattutino,Ruta de dimineață,Sabah Güzergahı,Trasa poranna,Ranní linka,아침 루트,晨间线路,晨間線路,Rota matutina
+MenuMain16,Маневрированиe,Maneuvering,Manöver,Manoeuvre,Manobrando,Maniobras,Manovra,Manevrare,Manevra Yapmak,Manewry,Manévrování,회차,机动,機動,Manobrando
+MenuMain17,Деловой центр,Delovoy Tsentr,Geschäftszentrum,Delovoy Tsentr,Centro Comercial,Delovoy Tsentr,Delovoy Tsentr,Delovoy Tsentr,Delovoy Tsentr,Centrum biznesowe,Delovoy Tsentr,델로보이 첸트르,商业中心站,商業中心站,Delovoy Tsentr
+MenuMain18,Минская,Minskaya,Minskaya,Minskaya,Minsk,Minskaya,Minskaya,Minskaya,Minskaya,Minskaya,Minská,민스카야,明斯克站,明斯克站,Minskaya
+MenuMain19,РАЗРАБОТЧИКИ,DEVELOPERS,ENTWICKLER,DÉVELOPPEURS,DESENVOLVEDORES,DESARROLLADORES,SVILUPPATORI,Devzoltatori:,GELİŞTİRİCİLER,DEWELOPERZY,VÝVOJÁŘI,개발자,开发人员,開發人員,Desenvolvedores
+MenuMain20,"Руководитель проекта: 
+   Кирилл Щербаков
+
+Программирование:
+   Максим Васильев
+   Кирилл Щербаков
+   Михаил Калиниченко
+   Александр Лобачев
+","Project Leader:
+   Kirill Scherbakov
+
+Programming:
+   Maxim Vasilev
+   Kirill Scherbakov
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","Projectleiter:
+   Kirill Scherbakov
+
+Programmierung:
+   Maxim Vasilev
+   Kirill Scherbakov
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","Chef de projet:
+   Kirill Scherbakov
+
+Programmation:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","Diretor do Projeto:
+   Kirill Scherbakov
+
+Programadores:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","El jefe de proyecto: 
+  Kirill Scherbakov
+ 
+ Programmación:
+  Kirill Scherbakov
+  Maksim Vasil'ev
+  Mikhail Kalinichenko
+  Alexandr Lobachev","Direttore del Progetto:
+   Kirill Scherbakov
+
+Programmatori:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","Lider de proiect:
+   Kirill Scherbakov
+
+Programatori:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","Proje Lideri:
+   Kirill Scherbakov
+
+Programlama:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+","Kierownik projektu:
+   Kirill Scherbakov
+
+Programiści:
+   Kirill Scherbakov
+   Maxim Wasilew
+   Michaił Kaliniczenko
+   Alexander Lobachev
+","Vedoucí projektu:
+   Kirill Scherbakov
+
+Programování:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev",,"项目管理：
+   Kirill Scherbakov
+
+编程：
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+
+","項目管理：
+   Kirill Scherbakov
+
+編程：
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+
+","Lider de Projeto:
+   Kirill Scherbakov
+
+Programação:
+   Kirill Scherbakov
+   Maxim Vasilev
+   Mikhail Kalinichenko
+   Alexander Lobachev
+"
+MenuMain21,"
+3D моделирование:
+   Павел Paul.G Гжелин
+   Андрей urban_drew Кузнецов
+   Кирилл CyrilMax Максов
+   Плюснин Максим
+
+Дизайн уровней:
+   Павел Paul.G Гжелин
+   Плюснин Максим
+
+Переводчики:
+   Английский: Андрей Вдовиченко
+   Французский: Raphaël NIVEAU (Link-Skywalker)
+   Немецкий: Supernucke.de, Ben Denker
+   Чешский: xmilek
+   Корейский: Archerity (a.k.a. Lunasyel)
+   Китайский: Peyton Long
+   Итальянский: Marco D'Elia
+   Португальский: Victor «JK» Andrade
+   Польский: Mateusz Mamet
+   Турецкий: Pref1tR
+   Румынский: ddavyd9, Andrei Lucian Boroş
+   Испанский: Samuel Quiroga, Georgy Lastochkin
+   Бразильский португальский: Luis Ricardo Muniz","
+3D Modelling:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Level Design:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Translators:
+   English: Andrey Vdovichenko
+   French: Raphaël NIVEAU (Link-Skywalker)
+   German: Supernucke.de, Ben Denker
+   Czech: xmilek
+   Turkish: Berkin Zorba & Pref1tR
+   Korean: Archerity (a.k.a. Lunasyel)
+   Chinese: Peyton Long
+   Italian: Marco D'Elia
+   Portuguese: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanish: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz","
+3D Modellierung:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Level Design:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Übersetzer:
+   English: Andrey Vdovichenko
+   Französisch: Raphaël NIVEAU (Link-Skywalker)
+   Deutsch: Supernucke.de, Ben Denker
+   Tschechisch: xmilek
+   Türkisch: Berkin Zorba & Pref1tR
+   Koreanisch: Archerity (a.k.a. Lunasyel)
+   Chinesisch: Peyton Long
+   Italienisch: Marco D'Elia
+   Portugisisch: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanisch: Samuel Quiroga, Georgy Lastochkin
+   BR Portugisisch: Luis Ricardo Muniz","
+Modélisme 3D:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Level Design:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Traducteurs:
+   Anglais: Andrey Vdovichenko
+   Français: Raphaël NIVEAU (Link-Skywalker)
+   Allemand: Supernucke.de, Ben Denker
+   Techèque: xmilek
+   Coréen: Archerity (a.k.a. Lunasyel)
+   Chinois: Peyton Long
+   Italien: Marco D'Elia
+   Portugais: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Espagnol: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz","
+Designers 3D:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Level Design:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Tradutores:
+   English: Andrey Vdovichenko
+   French: Raphaël NIVEAU (Link-Skywalker)
+   German: Supernucke.de, Ben Denker
+   Czech: xmilek
+   Korean: Archerity (a.k.a. Lunasyel)
+   Chinese: Peyton Long
+   Italian: Marco D'Elia
+   Portuguese: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanish: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz","3D-modeling:
+  Pavel Paul.G Gzhelin
+  Andrey urban_drew Kuznetsov
+  Kirill CyrilMax Maxov
+  Plusnin Maksim
+ 
+ El nivel de design:
+  Pavel Paul.G Gzhelin
+  Plusnin Maksim
+ 
+ Traductores:
+  Inglés: Andrey Vdovichenko
+  Francés: Raphaël NIVEAU (Link-Skywalker)
+  Alemán: Supernucke.de, Ben Denker
+  Checo: xmilek
+  Coreano: Archerity (a.k.a. Lunasyel)
+  Chino: Peyton Long
+  Italiano: Marco D'Elia
+  Portugués: Victor «JK» Andrade
+  Polish: Mateusz Mamet
+  Turkish: Pref1tR
+  Romanian: ddavyd9, Andrei Lucian Boroş
+  Español: Samuel Quiroga, Georgy Lastochkin","
+Designer 3D:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Level Design:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Traduttori:
+   English: Andrey Vdovichenko
+   French: Raphaël NIVEAU (Link-Skywalker)
+   German: Supernucke.de, Ben Denker
+   Czech: xmilek
+   Korean: Archerity (a.k.a. Lunasyel)
+   Chinese: Peyton Long
+   Italian: Marco D'Elia, Matteo Firelli
+   Portuguese: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanish: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz","Modelare 3D:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Design Nivele:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Traducători:
+   Engleză: Andrey Vdovichenko
+   Franceză: Raphaël NIVEAU (Link-Skywalker)
+   Germană: Supernucke.de, Ben Denker
+   Cehă: xmilek
+   Coreeană: Archerity (a.k.a. Lunasyel)
+   Chineză: Peyton Long
+   Italiană: Marco D'Elia
+   Portugheză: Victor «JK» Andrade
+   Poloneză: Mateusz Mamet
+   Turcă: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spaniolă: Samuel Quiroga, Georgy Lastochkin
+   Portugheză Braziliană: Luis Ricardo Muniz
+   Română: Andrei Lucian Boroș","
+3D Modelleme:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Bölüm Tasarımı:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Çevirmenler:
+   İngilizce: Andrey Vdovichenko
+   Fransızca: Raphaël NIVEAU (Link-Skywalker)
+   Almanca: Supernucke.de, Ben Denker
+   Çekçe: xmilek
+   Türkçe: Berkin Zorba & Pref1tR
+   Korece: Archerity (a.k.a. Lunasyel)
+   Çince: Peyton Long
+   İtalyanca: Marco D'Elia
+   Portekizce: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   İspanyolca: Samuel Quiroga, Georgy Lastochkin
+   Brezilya Portekizcesi: Luis Ricardo Muniz","
+Modelowanie 3D:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill Cyril Max Maxov
+   Plyusnin Maxim
+
+Projekt poziomu:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Tłumacze:
+   Angielski: Andrey Vdovichenko
+   Francuski: Raphaël NIVEAU (Link-Skywalker)
+   Niemiecki: Supernucke.de, Ben Denker
+   Czeski: xmilek
+   Koreański: Archerity (a.k.a. Lunasyel)
+   Chiński: Peyton Long
+   Włoski: Marco D'Elia
+   Portugalski: Victor „JK” Andrade
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Hiszpański: Samuel Quiroga, Georgy Lastochkin
+   Polski: Mateusz Mamet
+   BR Portuguese: Luis Ricardo Muniz","
+3D modelování:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+Level Design:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Překladatelé:
+   Angličtina: Andrey Vdovichenko
+   Francouzština: Raphaël NIVEAU (Link-Skywalker)
+   Němčina: Supernucke.de, Ben Denker
+   Čeština: xmilek
+   Korejština: Archerity (a.k.a. Lunasyel)
+   Čínština: Peyton Long
+   Italština: Marco D'Elia
+   Portugalština: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Španělština: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz",,"
+3D 建模：
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+关卡设计：
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+翻译：
+   English: Andrey Vdovichenko
+   French: Raphaël NIVEAU (Link-Skywalker)
+   German: Supernucke.de, Ben Denker
+   Czech: xmilek
+   Korean: Archerity (a.k.a. Lunasyel)
+   Chinese: Peyton Long
+   Italian: Marco D'Elia
+   Portuguese: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanish: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz","
+3D 建模：
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+
+關卡設計：
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+翻譯：
+   English: Andrey Vdovichenko
+   French: Raphaël NIVEAU (Link-Skywalker)
+   German: Supernucke.de, Ben Denker
+   Czech: xmilek
+   Korean: Archerity (a.k.a. Lunasyel)
+   Chinese: Peyton Long
+   Italian: Marco D'Elia
+   Portuguese: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanish: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz","
+Modeladores 3D:
+   Pavel Paul.G Gzhelin
+   Andrey urban_drew Kuznetzov
+   Kirill CyrilMax Maxov
+   Plyusnin Maxim
+Design de nível:
+   Pavel Paul.G Gzhelin
+   Plyusnin Maxim
+
+Tradutores:
+   English: Andrey Vdovichenko
+   French: Raphaël NIVEAU (Link-Skywalker)
+   German: Supernucke.de, Ben Denker
+   Czech: xmilek
+   Korean: Archerity (a.k.a. Lunasyel)
+   Chinese: Peyton Long
+   Italian: Marco D'Elia
+   Portuguese: Victor «JK» Andrade
+   Polish: Mateusz Mamet
+   Turkish: Pref1tR
+   Romanian: ddavyd9, Andrei Lucian Boroş
+   Spanish: Samuel Quiroga, Georgy Lastochkin
+   BR Portuguese: Luis Ricardo Muniz"
+MenuMain22,Ломоносовский проспект,Lomonosovskiy Prospect,Lomonosovskiy Prospekt,Lomonosovskiy Prospect,Avenida Lomonosov,Lomonosovsky Prospekt,Vista Lomonosovskiy,Lomonosovskiy Prospect,Lomonosovskiy Prospect,Lomonosovskiy Prospect,Lomonosovskij prospekt,로모노소브스키 프로스펙트,洛蒙诺索夫大道站,洛蒙諾索夫大道站,Prospecto Lomonosov skiu
+MenuMain23,Раменки,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,라멘키,拉缅基站,拉緬基站,Ramenki
+MenuMain24,СВОБОДНАЯ ПОЕЗДКА,FREE RIDE,FREIE FAHRT,TRAJET LIBRE,PASSEIO LIVRE,CONDUCCION LIBRE,GIRO LIBERO,CURSĂ LIBERĂ,SERBEST SÜRÜŞ,JAZDA DOWOLNA,VOLNÁ JÍZDA,자유 주행,自由模式,自由模式,MODO LIVRE
+MenuMain25,Свободная поездка,Free Ride,Freie Fahrt,Trajet libre,Passeio Livre,Conducción Libre,Giro libero,Cursă liberă,Serbest Sürüş,Jazda Dowolna,Volná jízda,자유 주행,自由模式,自由模式,Modo Livre
+MenuMain26,"В этом режиме вы можете сами выбрать, в каком тупике за какой станцией вам начать поездку. Также вы можете выбрать желаемый поезд. 
+Для начала выполнения рейса по маршруту, выберите желаемый в информаторе. 
+Помимо этого, на станциях и в тупиках разбросаны жетоны, используемые в разные года в Московском метро. Соберите их все, и получите достижение!","You can choose where to start from in this mode. Also, you can choose the train which you like the most.
+Select a needed route on the auto-informer to begin the route.","In diesem Modus können Sie auswählen, wo Sie beginnen möchten. Sie können auch den Zug wählen, der Ihnen am besten gefällt.
+Wählen Sie im Auto-Informer eine gewünschte Route aus, um die Route zu beginnen.","Dans ce mode, vous pouvez choisir votre point d'apparition. Vous pouvez aussi choisir le train que vous préférez.
+Séléctionnez une ligne sur l'auto-informateur pour commencer le trajet.","Você pode escolher por onde começar neste modo. Além disso, você pode escolher o trem que você mais gosta.
+É necessário selecionar uma rota no letreiro automático para iniciar a rota. ","En este modo puedes elegir dónde comenzar. También puedes elegir el tren que más te guste.
+ Selecciona una ruta en el autoinformador para comenzar el viaje.","Puoi scegliere da dove iniziare in questa modalità. Inoltre, puoi scegliere il treno che ti piace di più. 
+Seleziona un percorso necessario sull'auto-informatore per iniziare il percorso.","Poți alege de unde să începi în acest mod. De asemenea, poți alege trenul preferat. Pentru a începe, selectează ruta dorită pe ecran.","Bu oyun modunda nereden başlayacağınızı seçebilirsiniz.  Ayrıca en sevdiğiniz treni de
+seçme sansınız olacak. Başlamak için otomatik-bilgilendiriciden istediğiniz bir rotayı seçiniz.","Możesz wybrać, od czego zacząć w tym trybie. Możesz także wybrać pociąg, który najbardziej ci się podoba.
+Wybierz potrzebną trasę w autoinformatorze, aby rozpocząć trasę.","V tomto režimu si můžete vybrat z jaké stanice bude jízda zahájena. Můžete si také zvolit požadovaný vlak.
+Chcete-li zahájit jízdu na trase, vyberte v informacích požadovanou možnost.
+Navíc na nádražích a v slepých koncích roztroušené tokeny používané v různých letech moskevského metra. Shromážděte je všechny a získejte úspěch!","이 모드에서 운행을 시작할 위치와 원하는 열차를 선택할 수 있습니다.
+운행을 시작하려면 자동 안내방송 장치에서 경로를 선택하세요.","在这个模式中，您可以选择开始的位置。
+同时，您可以选择您最爱的列车。
+在信息面板上选择一条所需线路以开始游戏。","在這個模式中，您可以選擇開始的位置。
+同時，您可以選擇您最愛的列車。
+在信息面板上選擇一條所需線路以開始遊戲。","Você pode escolher onde começar nest modo de jogo. Além disso, pode escolher o trêm que preferir.
+Para começar, escolha a rota necessaria no autoinformante."
+MenuMain27,Солнцевская линия,Solntsevskaya Line,Solntsevskaya-Linie,Ligne Solntsevskaya,Linha Solntsevskaya,Línea Solntsevskaya,Linea Solntsevskaya,Linia Solntsevskaya,Solntsevskaya Hattı,Linia Solntsevskaya,Solntsevská linka,솔트세프스카야선,太阳线,太陽線,Linha Solntsevskaya
+MenuMain28,Парк победы,Park Pobedy,Park Pobedy,Parc Pobedy,Vitória Park,Park Pobedy,Parco Pobedy,Park Pobedy,Park Pobedy,Park Pobedy,Park Pobědy,파르크 포베디,胜利公园站,勝利公園站,Parque Pobedy
+MenuMain29,НАЗАД,BACK,ZURÜCK,RETOUR,VOLTAR,VOLVER,INDIETRO,Înapoi,GERİ,WRÓĆ,ZPĚT,뒤로가기,后退,後退,VOLTAR
+MenuMain30,Ока,Oka,Oka,Oka,Oka,Oka,Oka,Oka,Oka,Oka,Oka,Oka,奥卡河,奧卡河,Oka
+MenuMain31,НАЧАТЬ,START,START,COMMENCER,COMEÇAR,COMENZAR,INIZIA,Start,BAŞLA,ROZPOCZNIJ,ZAČÍT,시작,开始,開始,INICIAR
+MenuMain32,Выберите начальную станцию:,Select the station where you'll start from:,"Wählen Sie die Station aus, von der aus Sie beginnen möchten:",Séléctionnez votre station de départ :,Selecione a estação de onde você começará:,Selecciona la estación donde desees comenzar:,Seleziona la stazione da dove inizierai:,Selectează stația de plecare:,Başlayacağınız istasyonu seçiniz:,Wybierz stację początkową,Vyber si stanici ve které chceš začínat:,시작역:,选择您要开始的车站：,選擇您要開始的車站：,Selecione a estação que seja iniciar.
+MenuMain33,Россия,Russia,Russland,Russie,Rusia,Rusia,Russia,Rusia,Rusya,Rosja,Rusko,러시아,俄罗斯,俄罗斯,Rusia
+MenuMain34,Петровский парк,Petrovskiy Park,Petrovskiy Park,Parc Petrovskiy,Parque Petrovskiy,Petrovskiy Park,Parco Petrovskiy,Petrovskiy Park,Petrovskiy Park,Petrovskiy Park,Petrovský park,페트로프스키 파르크,彼得罗夫斯基公园站,彼得羅夫斯基公園站,Parque Petrovskiy
+MenuMain35,ЦСКА,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,中央陆军运动俱乐部站,中央陸軍運動俱樂部站,CSKA
+MenuMain36,Хорошевская,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Chorošovskaja,하로셰프스카야,霍罗绍夫站,霍羅紹夫站,Horoshevskaya
+MenuMain37,Шелепиха,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Šelepicha,쉘레피하,谢列彼哈站,謝列彼哈站,Shelepikha
+MenuMain38,Выберите поезд:,Select the train:,Wählen Sie den Zug aus:,Séléctionnez le train :,Selecione o trem:,Selecciona el tren:,Seleziona il treno:,Selectează trenul:,Tren Seçin:,Wybierz pociąg,Vyber si vlak:,열차 선택:,选择列车：,選擇列車：,Selecione o trêm
+MenuMain39,Снимок экрана сохранён,Screenshot saved,Screenshot gespeichert,Capture d'écran enregistrée,Captura de tela salva,Captura de pantalla guardada,Schermo catturato,Capturi de ecran salvate,Ekran görüntüsü kaydedildi,Zrzut ekranu zapisany,Snímek uložen,스크린샷 저장됨,截图已保存,截圖已保存,Captura da tela salva.
+MenuMain40,ИГРА,GAME,SPIEL,JEU,JOGOS,JUEGO,GIOCO,JOC,OYUN,GRA,HRA,경기,游戏,遊戲,JOGO
+MenuMain41,ВИДЕО,GRAPHICS,GRAFIK,GRAPHIQUE,GRÁFICOS,GRÁFICOS,GRAFICA,GRAFICĂ,GRAFIK,GRAFIKA,GRAFIKA,제도법,图像,圖像,GRÁFICOS
+MenuMain42,ЗВУК,AUDIO,AUDIO,L'AUDIO,AUDIO,AUDIO,AUDIO,AUDIO,SES,DŹWIĘK,ZVUK,오디오,伴音,伴音,ÁUDIO
+MenuMain43,УПРАВЛЕНИЕ,CONTROLS,STEUERUNG,CONTRÔLE,AO CONTROLE,CONTROLAR,CONTROLLO,CONTROL,KONTROLLER,STEROWANIE,ŘÍZENÍ,제어,控制,控制,CONTROLES
+MenuMain44,В режиме сценариев вам предстоит проходить рейсы с заранее заданными условиями. Маршруты и условия могут быть самыми разными: от классического рейса в час пик до перегонки нового состава поезда и действий в условии внештатных ситуаций. Новые сценарии будут открываться по мере прохождения.,"In Scenarios Mode, your task is to complete various routes with different conditions. Routes and conditions may be very different, starting with classic route in rush hour and ending with emergency situations.
+New scenarios will be unlocked when you complete previous ones. ","Im Szenario Modus ist es dein Job, verschiedene Aufgaben unter verschiedenen Umständen zu meistern. Von der klassischen Rush-Hour Route, bis hin zum Notfall. Neue Szenarios werden freigeschaltet, sobald du die vorherige Mission fertig hast!","Dans le mode Scénario, votre tâche de compléter les différents trajets dans des conditions particulières. Les trajets et conditions diffèrent grandement, en commençant par le classique à l'heure de pointe jusqu'à des situations d'urgence. 
+De nouveaux scénarios se débloqueront lorsque vous aurez complété les précédents.",,"En modo de escenarios usted tiene que pasar el viaje con condeciones predefenidas. Las rutas e condeciones pueden ser differentes: comenzando un viaje clasico durante hora pico y terminando con una conduccion de trenes o acciones en situacion dificil, crtitico. Nuevos escenarios abraran a medida que progresa.","Nella modalita' Scenario, il tuo compito e' quello di completare le svariate linee con delle condizioni diverse dal normale. Infatti, le linee e le condizioni variano, passando dalla classica linea durante ora di punta, con alla fine, una o piu' situazioni di emergenza. Alla fine di ogni scenario, verra' sbloccato un nuovo scenario.","În modul Scenariu, sarcina ta este să completezi rutele în condiții foarte diferite. Rutele și condițiile pot fi varia, începând de la ruta clasică la ora de vârf și până la situațiile de urgență. Scenarii noi vor fi deblocate numai când le vei completa pe cele anterioare. ","Senaryo modunda amacınız farklı koşullardaki rotaları tamamlamak. Rotalar ve kondisyonlar farklılık gösterebilir, örneğin iş çıkışı yoğun bir saatte başlayıp acil bir durumla bitmesi gibi.
+Yeni senaryolar bir öncekini tamamladığınızda açılacaktır.","W trybie scenariuszy Twoim zadaniem jest pokonanie różnych tras w różnych warunkach. Trasy i warunki mogą być bardzo różne, zaczynając od klasycznej trasy w godzinach szczytu, a kończąc na sytuacjach awaryjnych.
+Nowe scenariusze zostaną odblokowane po ukończeniu poprzednich.","V režimu scénáře, je tvým úkolem dokončit různé trasy s rozdílnými podmínkami. Trasy a podmínky mohou být velmi rozdílní, počínaje standartní trasou ve špičce a konče mimořádnými situacemi.
+Nové scénáře budou odemčeny jakmile dokončíš ty předchozí.",,"在场景模式下，您的任务是完成不同条件下的各种路线。 这些路线和条件可能有很大不同，从高峰时段的经典路线开始，到紧急情况结束。
+完成旧场景后，新场景将被解锁。","在場景模式下，您的任務是完成不同條件下的各種路線。 這些路線和條件可能有很大不同，從高峰時段的經典路線開始，到緊急情況結束。
+完成舊場景後，新場景將被解鎖。","No Modo Cenários, sua missão é completar diversas rotas com condições diferentes. Rotas e condições podem ser diferentes,
+começando com uma rota clássica no horário de pico e terminando com situações de emergência."
+MenuMain45,Версия игры устарела. Загрузите новую версию игры через,Your game version is obsolete. Download the new version via,Deine Spielversion ist veraltet. Lade das neueste Update via,Le jeu n'est pas à jour. Quittez le jeu et téléchagez la nouvelle version via,Sua versão do jogo é obsoleta. Baixe a nova versão via,Tu versión del juego está desactualizada. Actualízala a la última versión por,La tua versione del gioco è obsoleta. Aggiornala all’ultima versione via,Versiunea jocului este veche. Actualizează-l la ultima versiune prin,Eski bir oyun sürümü kullanmaktasınız. Yeni sürümü şu adresten indirin:,Twoja wersja gry jest przestarzała. Pobierz nową wersję przez,Vaše verze hry je zastaralá. Aktualizujte si hru na nejnovější verzi přes,게임 버전이 최신 상태가 아닙니다.  Steam에서 최신 버전으로 업데이트하세요.,您的游戏版本已经过时了。通过Steam更新到最新版本。,您的遊戲版本已經過時了。通過Steam更新到最新版本。,Você esta jogando numa versão desatualizada.
+MenuMain46,Савёловская,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya
+MenuMain47,Режим пассажира,Passenger mode,Fahrgastmodus,Mode passager,Modo de passageiro,Modo de pasajero,Modalità passeggero,Modul pasager,Yolcu modu,Tryb pasażera,Režim pro cestující,승객 모드,乘客模式,乘客模式,Modo passageiro
+MenuMain48,"Включить поезда, управляемые компьютером",Turn on computer-controlled trains,Schalte die computergesteuerten Züge,Activer les trains ordinateurs,Ligue os computadores de controle do trem,Encender los trenes que son controlados por el ordenador,Accendi i treni comandati dal computer,Activează trenurile controlate de calculator (trenuri IA),Bilgisayar kontrollü trenleri açın,Pociągi sterowanie przez komputer,Aktivovat vlaky kontrolované počítačem,,开启自动驾驶模式,開啟自動駕駛模式,Ativar trêns controlados por computador.
+MenuMain49,Интервал движения поездов:,Train interval:,Zug Intervall:,Intervalle entre chaque train,Intervalo do Trem:,Rango de movimiento de los trenes:,Intervallo treno,Intervalul trenurilor:,Tren aralığı:,Częstotliwość jazdy,Vlakový interval,,列车间隔：,列車間隔：,Intervalo do trêm
+MenuMain50,Рассказовка,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,拉斯卡佐夫卡站,拉斯卡佐夫卡站,Rasskazovka
+MenuMain51,Новопеределкино,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,,新佩列杰尔金诺站,新佩列傑爾金諾站,Novoperedelkino
+MenuMain52,Боровское шоссе,Borovskoe shosse,Borovskoe shosse,Borovskoe shosse,Borovskoe shosse,Borovskoe shosse,Borovskoe shosse,Borovskoe Shosse,Borovskoe Shose,Borovskoe shosse,Borovskoe shosse,,博罗夫斯克公路站,博羅夫斯克公路站,Borovskoe shosse
+MenuMain53,Солнцево,Solntsevo,Solntsevo,Solntsevo,Solntsevo,Solntsevo,Solntsevo,Solntsevo,Solntsevo,Solntsevo,Solntsevo,,太阳站,太陽站,Solntsevo
+MenuMain54,Говорово,Govorovo ,Govorovo ,Govorovo,Govorovo,Go´vorovo,Govorovo ,Govorovo,Govorovo ,Govorovo,Govorovo,,戈沃罗沃站,戈沃羅沃站,Govorovo
+MenuMain55,Озёрная,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozermaya,Ozernaya,Ozernaya,,湖区站,湖區站,Ozernaya
+MenuMain56,Мичуринский проспект,Michurinskiy Prospect,Michurinskiy Prospect,Michurinskiy Prospect,Michurinskiy Prospect,Michurinskiy Prospect,Michurinskiy Prospect,Miciurinskiy Prospect,Michurinskiy Prospect,Michurinskiy Prospect,Michurinské náměstí,,米楚林斯基大道站,米楚林斯基大道站,Michurinskiy Prospect
+MenuMain57,Выберите окрас поезда:,Choose train livery:,Wählen Sie eine Lackierung für den Zug:,Choisissez la livrée du train,Escolha a pintura do trem,Eligid la textua de tren:,Scegli la livrea del treno:,Alege schema trenului:,Tren boyasını seçin:,Wybierz malowanie pociągu:,Vybrat barvu vlaku,,选择列车涂装：,選擇列車塗裝：,Escolha as cores do trêm
+MenuMain58,Россия,Russia,Russland,Russie,Rusia,Rusia,Russia,Rusia,Rusya,Rosja,Rusko,러시아,俄罗斯,俄罗斯,Rusia
+MenuMain59,Баку,Baku,Baku,Baku,Baku,Bakú,Baku,Baku,Bakü,Baku,Baku,,巴库,巴庫,Baku
+MenuMain60,Ташкент,Tashkent,Taschkent,Tashkent,Tashkent,Taskent,Tashkent,Tașkent,Taşkent,Tashkent,Tashkent,,塔什干,塔什幹,Tashkent
+MenuMain61,Казань,Kazan,Kazan,Kazan,Kazan,Kazán,Kazan,Kazan,Kazan,Kazan,Kazan,,喀山,喀山,Kazan
+MenuMain62,"Случайный окрас поездов, управляемых компьютером",Use random liveries for computer-controlled trains,Zufällige Lackierung für computer-gesteuerte Züge verwenden,Utiliser une livrée aléatoire pour les trains controllés par l'ordinateur,Use uma pintura aleatoria para o computador do trem,Aleatoria texture de trenes que son controlados por el ordenador,Usa livree casuali per i treni comandati dal computer,Folosește scheme aleatorii pentru trenurile controlate de calculator (trenuri IA),Bilgisayar kontrollü trenler için rastgele boya kullan,Użyj losowych malowań dla pociągów sterowanych przez komputer,Použít různé barvy pro vlaky ovládané počítačem,,为自动驾驶列车使用随机涂装,為自動駕駛列車使用隨機塗裝,Use cores aleatárias para os trêns controlados por computador
+MenuMain63,Время:,Time:,Zeit:,Heure,Tempo:,Tiempo:,Orario:,Oră/Ceas:,Tarih/Zaman:,Czas:,Čas,,时间：,時間：,Tempo
+MenuMain64,"С 1 до 6 часов ночи метро закрыто, пассажиров нет.","Metro is closed from 01:00 AM to 06:00 AM, there are no passengers.","Die U-Bahn ist zwischen 01:00 AM - 06:00 AM geschlossen, es gibt keine dann Fahrgäste.","Le métro est fermé entre 01:00 et 06:00 du matin, il n'y a aucun voyageur.","O metrô está fechado das 01:00 AM à 06:00 AM, não há passageiros.","Metro esta cerrado desde uno de la noche hasta 6 de la mañana, por eso no hay passajeros.","La metropolitana e' chiusa dalle ore 1.00 (AM) alle ore 06:00 (AM), non ci sono passeggeri.",Metroul este închis de la ora 01:00 AM până la ora 06:00 AM.,"Metro sabah 01.00 ile 06.00 arası kapalıdır, yolcu yok.","Metro jest zamknięte od 01:00 do 06:00, w tym czasie nie ma pasażerów.","Metro je zavřeno od 1:00 do 6:00, nejsou zde žádní cestující",,地铁运营时间为早上6点到次日凌晨1点。其余时段没有乘客。,地鐵運營時間為早上6點到次日淩晨1點。其余時段沒有乘客。,"O metrô é fechado dentre 01:00 AM até 06:00 AM, não há passageiros."
+MenuMain65,Стандартный,Standard,,,,,,,,,,,,,
+MenuMain66,Бренд,Brand,,,,,,,,,,,,,
+MenuMain67,Баклажан,Eggplant,,,,,,,,,,,,,
+MenuMain68,Апельсин,Orange,,,,,,,,,,,,,

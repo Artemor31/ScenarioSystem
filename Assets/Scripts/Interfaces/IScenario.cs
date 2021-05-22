@@ -1,4 +1,4 @@
 ﻿public interface IScenario
 {
-    void Start();
+    void Start(Step firstStep);
 }

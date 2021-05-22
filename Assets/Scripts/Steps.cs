@@ -7,6 +7,7 @@ using System.Text.RegularExpressions;
 public class Steps : ISteper
 {
     public event Action<Step> Changed;
+    public Step First => _steps[0];
     
     private List<Step> _steps;
     private int _index;
@@ -25,6 +26,11 @@ public class Steps : ISteper
         return _steps[_index + 1];
     }
 
+    public void Change(Step step)
+    {
+        SetIndex(_steps.IndexOf(step));
+    }
+    
     public Step Change(string step)
     {
         if (IsValidatedStepRegex(step) == false)
@@ -38,7 +44,7 @@ public class Steps : ISteper
     private void SetIndex(int index)
     {
         if (index < 0 || index >= _steps.Count)
-            throw new ArgumentException();
+            throw new ArgumentOutOfRangeException();
         
         _index = index;
         Changed?.Invoke(_steps[_index]);
@@ -54,7 +60,7 @@ public class Steps : ISteper
         if (string.IsNullOrEmpty(message) == true) 
             return false;
         
-        Regex regex = new Regex(@"(^\.)|([^\d|.])");
+        Regex regex = new Regex(@"(^\.)|([^\d|.])|(\D$)");
         var foundChars = regex.IsMatch(message);
         return foundChars == false;
     }

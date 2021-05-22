@@ -1,0 +1,34 @@
+Key,Russian,English,German,French,Portuguese,Spanish,Italian,Romanian,Turkish,Polish,Czech,Korean,Chinese,ChineseTraditional,BrazilianPortuguese
+Фары,Фары,Headlights,Scheinwerfer,Phares,Faróis,Faros,Fari,Faruri,Farlar,Reflektory,Světlomety,전조등,列车头灯,列車頭燈,Faróis
+Закрытие дверей,Закрытие дверей,Close doors,Türen schließen,Fermer les portes,Fechar as portas,Cerrar puertas,Chiudi le porte,Închidere uși,Kapıları Kapat,Zamykanie drzwi,Zavřít dveře,출입문 닫힘,车门关闭,車門關閉,Fechar Portas
+Пуск записи,Пуск записи,Play recording,Ansage abspielen,Jouer l'enregistrement,Iniciar a gravação,Reproducir grabación,Registra,Redă înregistrare,Durak Kaydını Çal,Rozpocznij nagrywanie,Přehrát záznam,안내방송 재생,报站,報站,Tocar Gravação
+Сигнал,Сигнал,Horn,Zughorn,Sifflet,Buzina,Bocina,Clacson,Claxon,Korna,Sygnał dźwiękowy,Klakson,경적,喇叭,喇叭,Buzina
+Выбрать левые двери,Выбрать левые двери,Select left doors,Wählen Sie die linken Türen aus,Séléctionner les portes de gauche,Selecione as portas da esquerda,Seleccionar las puertas de la izquierda,Seleziona le porte di sinistra,Selectare uși stânga,Sol Kapıları Seç,Wybierz drzwi lewe,Zvolit levé dveře,좌측 출입문 선택,选择左侧车门,選擇左側車門,Selecionar portas da esquerda
+Выбрать правые двери,Выбрать правые двери,Select right doors,Wählen Sie die rechten Türen aus,Séléctionner les portes de droite,Selecione as portas da direita,Seleccionar las puertas de la derecha,Seleziona le porte di destra,Selectare uși dreapta,Sağ Kapıları Seç,Wybierz drzwi prawe,Zvolit pravé dveře,우측 출입문 선택,选择右侧车门,選擇右側車門,Selecionar portas da direita
+Открыть левые двери,Открыть левые двери,Open left doors,Linke Türen öffnen,Ouvrir les portes à gauche,Abra as portas da esquerda,Abrir las puertas de la izquierda,Apri le porte di sinistra,Deschidere uși stânga,Sol Kapıları Aç,Otwórz drzwi lewe,Otevřít levé dveře,좌측 출입문 열림,开启左侧车门,開啟左側車門,Abrir portas da esquerda
+Открыть правые двери,Открыть правые двери,Open right doors,Rechte Türen öffnen,Ouvrir les portes à droite,Abra as portas direitas,Abrir las puertas de la derecha,Apri le porte di destra,Deschidere uși dreapta,Sağ Kapıları Aç,Otwórz drzwi prawe,Otevřít pravé dveře,우측 출입문 열림,开启右侧车门,開啟右側車門,Abrir portas da direita
+Восприятие торможения,Восприятие торможения,Braking cancellation,Bremsen abbrechen,Annulation de freinage,Cancelamento de frenagem,Cancelación de freno,Annullamento della frenata,Anulare frână,Fren İptali,Anulowanie hamowania,Rušení brzdění,제동 완해,取消制动,取消制動,Cancelamento de frenagem
+Экстренный тормоз,Экстренный тормоз,Emergency brake,Notbremse,Freinage d'urgence,Freio de emergência,Freno de emergencia,Freno di emergenza,Frână de urgență,Acil El Freni,Hamulec awaryjny,Záchranná brzda,비상 제동,紧急制动,緊急制動,Freio de emergência
+Контроллер хода,Контроллер хода,Controller,Regler,Manette,Controlador de curso,Controlador de ciclos,Controllore,Manșă,Kontrolör,Kontroler,Ovladač tahu,제어기,控制台,控制台,Controle
+Ручной контроллер,Ручной контроллер,Manual controller,Manuelle Steuerung,Manette manuelle,Controle Manual,Controlador manual,Controllore manuale,Manșă manuală,Elle Kontrol,Ręczny kontroler,Ruční ovládání,수동 제어기,手动控制台,手動控制台,Controle manual
+Камера справа,Камера справа,Right camera,Rechte Kamera,Caméra de droite,Câmera da direita,Cámara derecha,Camera destra,Cameră dreapta,Sağ Kamera,Prawa kamera,Pravá kamera,우측 카메라,右侧摄像头,右側攝像頭,Câmera direita
+Камера слева,Камера слева,Left camera,Linke Kamera,Caméra de gauche,Câmera da esquerda,Cámara izquierda,Camera sinistra,Cameră stânga,Sol Kamera,Lewa kamera,Levá kamera,좌측 카메라,左侧摄像头,左側攝像頭,Câmera esquerda
+Бдительность,Бдительность,Vigilance,Wachsamkeit,Vigilance,Vigilância,Vigilancia,Vigilanza,Vigilență,Vigilance Emniyet Sistemi,Czuwak,Bdělost,경고 확인,司机警惕装置,司機警惕裝置,Vigilância
+Выбор маршрута,Выбор маршрута,Route selection,Routenauswahl,Séléction de ligne,Seletor de rotas,Selección de ruta,Selezione del percorso,Selectare rută,Güzergah Seçimi,Wybór trasy,Výběr trasy,경로 선택,线路选择,線路選擇,Seleção de rota
+Установка в начало,Установка в начало,Set to beginning,Auf Anfang setzen,Mettre au début,Definir como início,Comenzar desde el principio,Impostare all'inizio,Setează de la început,Başlangıca Ayarla,Ustaw na początek,Nastavit na začátek,처음으로 설정,设定开始,設定開始,Definir como início
+Вверх,Вверх,Up,Hoch,Haut,Cima,Arriba,Su,Sus,Yukarı,Góra,Nahoru,위,上,上,Para cima
+Вниз,Вниз,Down,Runter,Bas,Baixo,Abajo,Giù,Jos,Aşağı,Dół,Dolů,아래,下,下,Para baixo
+Выход,Выход,Exit,Ausgang,Sortie,Saída,Salida,Uscita,Ieșire,Çıkış,Wyjdź,Konec,나가기,退出,退出,Saída
+F1,F1,F1,F1,F1,F1,F1,F1,F1,F1,F1,F1,F1,F1,F1,F1
+F2,F2,F2,F2,F2,F2,F2,F2,F2,F2,F2,F2,F2,F2,F2,F2
+F3,F3,F3,F3,F3,F3,F3,F3,F3,F3,F3,F3,F3,F3,F3,F3
+F4,F4,F4,F4,F4,F4,F4,F4,F4,F4,F4,F4,F4,F4,F4,F4
+Cильное освещение,Cильное освещение кабины,Bright cabin lighting,Kabinenbeleuchtung,Éclairage de cabine,Iluminação de cabine,Brillo de la cabina,Illuminazione della cabina,Lumină cabină,Kabin Işıkları,Jasność oświetlenia kabiny,Osvětlení kabiny,운전실 조명 밝기,车厢照明,車廂照明,Uliminação da cabine 
+Освещение кабины,Освещение кабины,Cabin lighting,Kabinenbeleuchtung,Éclairage de cabine,Iluminação de cabine,Brillo de la cabina,Illuminazione della cabina,Lumină cabină,Kabin Işıkları,Jasność oświetlenia kabiny,Osvětlení kabiny,운전실 조명 밝기,车厢照明,車廂照明,Uliminação da cabine 
+Батарея,Батарея,Battery,Batterie,Batterie,Bateria,Batería,Batteria,Baterie,Batarya,Bateria,Baterie,배터리,电池,電池,Bateria
+Правая дверь,Правая дверь,Right door,Rechte Tür,Porte de droite,Porta direita,Puerta derecha,Porta destra,Ușă dreapta,Sağ Kapı ,Prawe drzwi,Pravé dveře,우측 문,右侧车门,右側車門,Porta da direita
+Внутренняя дверь,Внутренняя дверь,Door to the passenger compartment,Tür zum Fahrgastraum,Porte du compartiment passager,Porta interna,Puerta del compartimiento de pasajeros,Porta del vagone passeggeri,Ușă spre salonul pasagerilor,Yolcu Bölmesine Geçiş Kapısı,Drzwi do przedziału pasażerskiego,Dveře do prostoru pro cestující,객실 문,司机室门,司機室門,Porta do vagão de passageiros
+Левая дверь,Левая дверь,Left door,Linke Tür,Porte de gauche,Porta esquerda,Puerta izquierda,Porta sinistra,Ușă stânga,Sol Kapı,Lewe drzwi,Levé dveře,촤측 문,左侧车门,左側車門,Porta da esquerda
+Контроллер реверса,Контроллер реверса,Reverse controller,Rückwerts Regler,Manette de marche arrière,Manete de reversor,Controlador inverso,Controller inverso,Manșă inversor,Geri Kontrolör,Odwróć kontroler,Zpětný řadič,역전간,倒退驾驶,倒退駕駛,Controle inverso
+Принять,Принять,Accept,Akzeptieren,Accepter,Aceitar,Aceptar,Accetta,Acceptă,Kabul Et,Akceptuj,Potvrdit,확인,允许,允許,Aceitar
+Блок не активен,Блок не активен,Block inactive,keine Belegung,Section inactive,Bloco não ativo,Bloque inactivo,Blocco inattivo,Secțiune inactivă,Bölüm Aktif Değil,Blok nieaktywny,Blok není aktivní,경로 설정,区块待用,區塊待用,Bloqueio inativo

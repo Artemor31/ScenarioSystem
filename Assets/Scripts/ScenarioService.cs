@@ -8,7 +8,7 @@
     {
         _data = data;
         var scenario = ResolveFactory<ScenarioFactoryDefault>();
-        scenario.Start();
+        scenario.Start(Steps.First);
     }
 
     private IScenario ResolveFactory<T>() where T : IScenarioFactory, new()

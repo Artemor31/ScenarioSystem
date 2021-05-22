@@ -1,0 +1,93 @@
+Key,Russian,English,German,French,Portuguese,Spanish,Italian,Romanian,Turkish,Polish,Czech,Korean,Chinese,ChineseTraditional,BrazilianPortuguese
+Money1,Превышение скорости,Overspeed,Überdrehzahl,Excès de vitesse,Excesso de velocidade,Exceso de velocidad,Velocità eccessiva,Depășire viteză,Aşırı Hız,Przekroczenie prędkości,Překročení rychlosti,과속,超速,超速,Excesso de velocidade
+Money2,Объявление станции,Station announcement,Stationsansage,Annonce de station,Anúncio da estação,Anuncio de estación,Annuncio della stazione,Anunț stație,İstasyon anonsu,Ogłoszenie stacji,Staniční hlášení,정거장 안내방송,报站,報站,Anuncio de estação
+Money3,Cтолкновение с машиной,Collision with the car,Kollision mit einem Waggon,Accident avec une voiture,Colisão com outro veículo,Colisión con el vagón,Incidente con la macchina,Coliziune cu un vagon.,Arabayla çarpışma,Zderzenie,Kolize s vozidlem,차량과 충돌,与列车碰撞,與列車碰撞,Colisão com outro carro
+Money4,Cтолкновение,Collision,Kollision,Collision,Colisão,Colisión,Incidente,Coliziune,Çarpışma,Kolizja,Kolize s objektem,충돌,碰撞,碰撞,Colisão
+Money5,Раннее прибытие на станцию,Early arrival,Verfrühte Ankunft,Arrivée précoce,Chegou muito cedo em um ponto,Llegada temprana a la parada,Arrivo anticipato alla fermata,Sosire timpurie,Durağa erken varma,Wczesny przyjazd,Brzký příjezd na zastávku,조착,早点,早點,Chegou muito cedo
+Money6,Опоздание на остановку,Delayed arrival,Verspätete Ankunft an der Haltestelle,Arrivée tardive,Chegou muito tarde em um ponto,Retraso en la llegada a la parada,Arrivo ritardato alla fermata,Sosire întârziată,Durağa geç varma,Spóźnienie,Zpožděný příjezd na zastávku,연착,误点,誤點,Chegou atrasado 
+Money7,Оплата проезда,Fare,Fahrpreis,Tarifs,Tarifa de ônibus,Tarifa,Tariffa,Tarif,Tarife,Opłata,Jízdné,요금,车费,車費,Tarifa
+Money8,Пропуск остановки,Not stopping at the station,Haltestelle überfahren,Arrêt manqué,Não parando na estação,Saltar parada,Passare la fermata,Trecut peste stație,Durakta durmayacak,Nie zatrzymałeś się na stacji,Přeskočení zastávky,정거장 무정차 통과,不停站通过,不停站通過,Não parou na estação
+SelectLanguage1,"Приветствуем вас в игре Metro Simulator!
+Пожалуйста, не забывайте, что игра всё ещё находится в разработке и данная бета версия представляет собой ранний доступ. 
+Следите за обновлениями на странице игры в Steam и на страницах студии Kishmish Games.","Welcome to Metro Simulator!
+Please, keep in mind that the game is still in development and this is only an early beta version.
+Follow our Steam page and KishMish Games pages on social networks to be informed about development news.","Willkommen bei Metro Simulator!
+Bitte beachten Sie, dass sich das Spiel noch in der Entwicklung befindet und dies nur eine frühe Beta-Version ist.
+Folgen Sie unserer Steam-Seite und den KishMish Games-Seiten in sozialen Netzwerken, um über Neuigkeiten aus der Entwicklung informiert zu werden.","Bienvenue dans Metro Simulator!
+Noubliez pas que ce jeu est toujours en développement et que ceci est une version beta.
+Suivez nous sur notre page Steam et KishMish Games sur les réseaux sociaux pour être informés sur l’avancée du développement.","Bem vindo ao Metro Simulator!
+Por favor, tenha em mente que o jogo ainda está em desenvolvimento e esta é apenas uma versão beta inicial.
+Siga a nossa página Steam e as páginas da  KishMish Games nas redes sociais para ser informado sobre as novidades do desenvolvimento. ","¡Bienvenido a Metro Simulator! 
+ Por favor, ten en cuenta que el juego se encuentra en desarrollo y esta es una versión beta temprana. 
+ Síguenos en nuestras redes sociales KishMish Games y en nuestra página en Steam, para informarte sobre las noticias de desarrollo.","Benvenuto in Metro Simulator!
+Per favore, tieni presente che il gioco è ancora in fase di sviluppo e questa è solo una delle prime versioni beta.
+Segui le nostre pagine Steam e KishMish Games sui social network per essere informato sulle novità di sviluppo.","Bine ai venit la Metro Simulator! 
+Aceasta este versiunea BETA a jocului, acesta aflându-se încă în testări. 
+Urmărește-ne pe pagina de Steam și pe rețelele sociale (KishMish Games) pentru a fi la curent cu noile noutăți.","Metro Simulator hoşgeldiniz!
+Lütfen unutmayın ki oyun hala geliştirilme aşamasında ve şu anda erken beta sürümündedir.
+Gelişim sürecini takip etmek için Steam sayfamızı ve sosyal medyada KishMish Games sayfalarını takip etmeyi unutmayın.","Witamy w Metro Simulator! 
+Pamiętaj, że gra jest wciąż w fazie rozwoju i jest to tylko wczesna wersja beta. 
+Śledź naszą stronę Steam i strony KishMish Games w mediach społecznościowych, aby otrzymywać informacje o nowościach programistycznych.","Vítejte ve hře Metro Simulator!
+Mějte prosím na paměti, že hra je stále ve vývoji, a jedná se o předčasný přístup.
+Sledujte stránky Steam a stránky KishMish Games na sociálních sítích a informujte se o novinkách v oblasti vývoje.","Metro Simulator 에 오신 것을 환영합니다!
+이 게임은 아직 초기 베타 버전으로 현재 개발중에 있습니다.
+개발 소식을 얻으려면 Steam 상점 페이지와 각종 SNS의 KishMish Games 페이지를 참조해주세요.","欢迎来到地铁模拟！
+请注意，这个游戏依然处于开发状态，而这个版本也是早期测试版本 
+关注我们团队的Steam主页以及在社交平台上的KishMish Games帐号来获取更多关于游戏开发的信息吧！","歡迎來到地鐵模擬！
+請註意，這個遊戲依然處於開發狀態，而這個版本也是早期測試版本 
+關註我們團隊的Steam主頁以及在社交平臺上的KishMish Games帳號來獲取更多關於遊戲開發的信息吧！","Bem vindo a Metro Simulator!
+Por Favor, tenha em mente que este jogo ainda está em desenvolvimento e esta é apenas uma versão beta antecipada.
+Acompanhe nossa página da Steam e  KishMish Games nas redes sociais para se manter informado sobre noticias do desenvolvimento."
+SelectLanguage2,Продолжить,Continue,Fortsetzen,Continuer,Continuar,Continuar,Continua,Continuă,Devam,Kontynuuj,Pokračovat,계속,继续游戏,繼續遊戲,Continuar
+TimeTable1,Раменки,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,Ramenki,라멘키,拉缅基站,拉緬基站,Ramenki
+TimeTable2,Ломоносовский проспект,Lomonosovskiy Prospect,Lomonosovskiy Prospect,Lomonosovskiy Prospect,Lomonosovskiy Prospect,Lomonosovskiy Prospekt,Viale Lomonosovskiy,Lomonosovskyi Prospect,Lomonosovskiy Prospect,Lomonosovskiy Prospect,Lomonosovskij prospekt,로모노소브스키 프로스펙트,罗蒙诺索夫大道站,羅蒙諾索夫大道站,Lomonosovskiy Prospect
+TimeTable3,Минская,Minskaya,Minskaya,Minskaya,Minskaya,Minskaya,Minskaya,Minskaya,Minskaya,Minskaya,Minskaja,민스카야,明斯克站,明斯克站,Minskaya
+TimeTable4,Парк Победы,Park Pobedy,Park Pobedy,Parc Pobedy,Parque Pobedy,Park Pobedy,Parco Pobedy,Park Pobedy,Park Pobedy,Park Pobedy,Park Pobědy,파르크 포베디,胜利公园站,勝利公園站,Park Pobedy
+TimeTable5,Шелепиха,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Shelepikha,Šelepicha,쉘레피하,谢列彼哈站,謝列彼哈站,Shelepikha
+TimeTable6,Хорошевская,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Horoshevskaya,Chorošovskaja,하로셰프스카야,霍罗绍夫站,霍羅紹夫站,Horoshevskaya
+TimeTable7,ЦСКА,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,CSKA,中央陆军运动俱乐部站,中央陸軍運動俱樂部站,CSKA
+TimeTable8,Петровский парк,Petrovskiy Park,Petrovskiy Park,Petrovskiy Park,Parque Petrovskiy,Petrovskiy Park,Parco Petrovskiy,Petrovskiy Park,Petrovskiy Park,Petrovskiy Park,Petrovský park,페트로프스키 파르크,彼得罗夫斯基公园站,彼得羅夫斯基公園站,Petrovskiy Park
+TimeTable9,Деловой центр,Delovoy Tsentr,Delovoy Tsentr,Delovoy Tsentr,Centro de negócios,Delovoy Tsentr,Delovoy Tsentr,Delovoy Tsentr,Delovoy Tsentr,Delovoy Tsentr,Dělovoj centr,델로보이 첸트르,商业中心站,商業中心站,Delovoy Tsentr
+SecretAdmin1,Версия игры устарела. Загрузите новую версию игры.,Your game version is obsolete. Download the latest version.,Deine Spielversion ist veraltet. Lade das neueste Update via Steam herunter.,Le jeu n'est pas à jour. Quittez le jeu et téléchargez la nouvelle version via Steam.,A versão de jogo é obsoleto. Baixe a nova versão.,Tu versión del juego está desactualizada. Actualízala a la última versión a través de Steam.,La versione del gioco non è aggiornata. Scarica la nuova versione del gioco.,Jocul tau este neactualizat. Actualizează-l la ultima versiune prin Steam.,Oyun versiyonunuz eski. Yeni sürümü indiriniz.,Twoja wersja gry jest przestarzała. Pobierz najnowszą wersję.,Vaše verze hry je zastaralá. Aktualizujte si hru na nejnovější verzi přes Steam.,게임 버전이 최신 상태가 아닙니다. Steam에서 최신 버전으로 업데이트하세요.,你的游戏版本已经过时了 通过Steam更新到最新版本。,妳的遊戲版本已經過時了 通過Steam更新到最新版本。,Esta versão do jogo está obsoleta. Faça o download da nova versão.
+CloseDoors1,Закрыто,Closed,Geschlossen,Fermé,Fechado,Cerrado,Chiuso,Închis,Kapalı,Zamknięte,Zavřít,닫힘,关闭,關閉,Fechado
+CloseDoors2,Открыто,Open,Offen,Ouvert,Aberto,Abierto,Aperto,Deschis,Açık,Otwarte,Otevřít,열림,开启,開啟,Aberto
+RayHandler1,Нейтраль,Neutral,Neutral,Neutre,Neutro,Neutro,Neutro,Neutru,Boşta,Neutralne,Neutrál,중립,空档,空檔,Neutro
+RayHandler2,Вперёд,Forward,Vorwärts,Marche avant,Avançar,Avanzar,Avanti,Înainte,İleri,Na przód,Vpřed,전진,前进,前進,Frente
+RayHandler3,Нейтральное,Neutral,Neutral,Neutre,Neutro,Neutral,Neutro,Neutru,Boşta,Neutralny,Neutrál,중립,空档,空檔,Neutro
+RayHandler4,Назад,Backwards,Rückwärts,Marche arrière,Reversor,Marcha atrás,Retromarcia,Înapoi,Geri,Do tyłu,Vzad,후진,后退,後退,Marcha à ré
+RayHandler5,Статус,Status,Status,Statut,Status,Estado,Stato,Status,Durum,Status,Status,상태,状态,狀態,Estado
+RayHandler6,Вверх,Up,Hoch,Haut,Cima,Arriba,Su,Sus,Yukarı,Góra,Nahoru,위,上,上,Cima
+RayHandler7,Вниз,Down,Runter,Bas,Baixo,Abajo,Giù,Jos,Aşağı,Dół,Dolů,아래,下,下,Baixo
+RayHandler8,Вкл,On,Ein,Activé,Ligado,Encendido,Accendi,Pornit,Açık,Włączony,Zapnuto,켜짐,开启,開啟,Ligado
+RayHandler9,Выкл,Off,Aus,Désactivé,Desligado,Apagado,Spegni,Oprit,Kapalı,Wyłączony,Vypnuto,꺼짐,关闭,關閉,Desligado
+RayHandler10,1 и 2,1 and 2,1 und 2,1 et 2,1 e 2,1 y 2,1 e 2,1 și 2,1 ve 2,1 i 2,1 a 2,"1, 2",1/2档,1/2檔,1 e 2
+RayHandler11,Группа фар,Headlights group,Scheinwerfergruppe,Groupe de phares,Grupo de faróis,Grupo de faros,Gruppo di fari,Grup de faruri,Far grubu,Grupa świateł,Skupina světel,전조등 그룹,头灯,頭燈,Grupo de farois
+RayHandler12,"Нажмите левую кнопку мыши, чтобы перевести стрелку",Press left mouse button to use the switch arrow,"Drücken Sie die linke Maustaste, um die Weiche umzustellen",Appuyez sur le bouton gauche de la souris pour utiliser les aiguillages.,Pressione o botão esquerdo do mouse para usar a seta do interruptor,Presione el botón izquierdo del ratón para usar la flecha de desvío,Premi il tasto sinistro del mouse per spostare la freccia,Click stânga pe mouse pentru a schimba macazul,Makas oklarını kullanmak için sol fare tuşuna basınız.,"Naciśnij lewy przycisk myszy, aby użyć zwrotnicy",Stiskněte levé tlačítko myši a použijte šipku přepínače,마우스 좌클릭으로 선로 방향 전환하기,鼠标左键改变箭头以调整道岔,鼠標左鍵改變箭頭以調整道岔,Pressione o botão esquerdo do mouse para mudar a ceta
+RayHandler13,Закрыто,Closed,Geschlossen,Fermé,Fechado,Cerrado,Chiuso,Închis,Kapalı,Zamknięte,Zavřít,닫힘,关闭,關閉,Fechado
+RayHandler14,Открыто,Open,Offen,Ouvert,Aberto,Abierto,Aperto,Deschis,Açık,Otwarte,Otevřít,열림,开启,開啟,Aberto
+RayHandler15,Открыть светофор,Open traffic light,Fahrtzeigendes Signal,Ouvrir le signal,Sinal aberto,Encender el semáforo,Apri il semaforo,Deschide semnalul,Trafik ışıklarını aç,Otwórz sygnalizację świetlną,Otevřít signalizační světla,,打开信号灯,打開信號燈,Abrir o farol de tráfego
+RayHandler16,Закрыть светофор,Close traffic light,Haltzeigendes Signal,Fermer le signal,Sinal fechado,Cerrar el semáforo,Chiudi il semaforo,Închide semnalul,Traik ışıklarını kapat,Zamknij sygnalizację świetlną,Zavřít signalizační světla,,关闭信号灯,關閉信號燈,Fechar o farol de tráfego
+RayHandler17,Открыть ворота,Open gate,Offener Übergang,Ouvrir la porte,Portão aberto,Abrir la puerta,Apri la porta,Deschide poarta,Geçidi aç,Otwórz bramę,Otevřít bránu,,打开闸门,打開閘門,Abrir Portão
+RayHandler18,Закрыть ворота,Close gate,Geschoßener Übergang,fermer la porte,Portão fechado,Cerrar la puerta,Chiudi la porta,Închide poarta,Geçidi kapat,Zamknij bramę,Zavřít bránu,,关闭闸门,關閉閘門,Fechar Portão
+BackSeat1,Сесть,Sit down,Hinsetzen,S'asseoir,Sente-se,Siéntate,Siediti,Așează-te,Otur,Usiądź,Sednout si,앉기,坐下,坐下,Sentar-se
+bl_AllOptions1,Вкл,On,Ein,Activé,Ligado,Encendido,Accendi,Pornit,Açık,Włączone,Zapnuto,켜짐,开启,開啟,Ligado
+bl_AllOptions2,Выкл,Off,Aus,Désactivé,Desligado,Apagado,Spegni,Oprit,Kapalı,Wyłączone,Vypnuto,꺼짐,关闭,關閉,Desligado
+Intervals1,Интервалы между станциями,Intervals between stations,Intervall zwischen Stationen,Intervalles entre chaque station,Intervalo entre as estações,Intervalos entre estaciones,Intervalli tra le stazioni,Intervalul între stații,İstasyonlar arasındaki zaman aralığı,Odstępy między stacjami,Intervaly mezi stanicemi,,站间距,站間距,Intervalo entre estações
+Intervals2,Станция,Station,U-Bahn Haltestelle,Station,Estação,Estación,Stazione,Stația,İstasyon,Stacja,stanice,,车站,車站,Estação
+Intervals3,Интервал,Interval,Intervall,Intervalles entre chaque station,,Intervalo,Intervallo,Interval,Zaman aralığı,Odstęp,Interval,,间隔,間隔,Intervalo
+Intervals4,Время,Arrival time,Ankunfts Zeit,Heure d'arrivée,Horário de chegada,Hora de llegada,Orario di arrivo,Sosire,Varış saati,Czas przybycia,Čas příjezdu,,到达时间,到達時間,Tempo de chegada
+МФДУ1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+МФДУ2,,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+TimeTable10,Мичуринский проспект,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,Michurinskiy prospekt,米楚林斯基大道站,米楚林斯基大道站,Michurinskiy prospekt
+TimeTable11,Озерная,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,Ozernaya,湖区站,湖區站,Ozernaya
+TimeTable12,Говорово,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,Govorovo,戈沃罗沃站,戈沃羅沃站,Govorovo
+TimeTable13,Солнцево,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,Solncevo,太阳站,太陽站,Solncevo
+TimeTable14,Боровское шоссе,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,Borovskoye shosse,博罗夫斯克公路站,博羅夫斯克公路站,Borovskoye shosse
+TimeTable15,Новопеределкино,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,Novoperedelkino,新佩列杰尔金诺站,新佩列傑爾金諾站,Novoperedelkino
+TimeTable16,Рассказовка,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,Rasskazovka,拉斯卡佐夫卡站,拉斯卡佐夫卡站,Rasskazovka
+TimeTable17,Савеловская,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,Savelovskaya,萨维奥洛沃站,薩維奧洛沃站,Savelovskaya
+Routing1,Депо,Depot,Depot,Dépot,Depósito,Depó,deposito,Depou,Depo,Zajezdnia,Depo,,车辆段,車輛段,Depósito
+Routing2,Построить маршрут до...,Build route to...,Erstellen Sie eine Route zu...,Créer une route vers...,Construa sua rota para...,Construye una ruta para...,Costruisci un percorso per...,Creează o rută spre...,Rotanızı şu istasyona doğru ayarlayın...,Zbuduj trasę do...,Vytvoř trasu do...,,建立线路往......,建立線路往......,Construir uma rota para...
+Routing3,1й путь,1st track,1 Spur,1 piste,1 rastrear,1 pista,1 binario,Prima linie,1. yol,1 tor,1. cesta,,第一条轨道,第一條軌道,1° caminho
+Routing4,4й путь,4th track,4 Spur,4 piste,4 rastrear,4 pista,4 binario,A 4-a linie,4. yol,4 tor,4. cesta,,第四条轨道,第四條軌道,4° caminho
+Routing5,"Для того, чтобы включить или отключить курсор нужно нажать {0:N1}",In order to enable or disable the cursor you need to press {0:N1},,,,,,"Pentru a activa sau dezactiva cursorul, trebuie să apeși {0:N1}",,,,,,,

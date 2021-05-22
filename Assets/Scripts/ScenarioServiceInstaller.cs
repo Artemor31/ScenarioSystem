@@ -3,20 +3,20 @@ using UnityEngine;
 
 public class ScenarioServiceInstaller
 {
-    private readonly ScenarioService _scenarioService;  
+    public ScenarioService Service => _service;  
+    private readonly ScenarioService _service;  
     
     public ScenarioServiceInstaller(DataScenario data)
     {
         if (data == null) throw new ArgumentException();
-        _scenarioService = new ScenarioService(data);
+        _service = new ScenarioService(data);
     }
 
-    public ScenarioServiceInstaller TextSystemInit<T>(IMessageScenario messageScenario) where T : ITextSystem
+    public ScenarioServiceInstaller TextSystemInit(ITextSystem textSystem, IMessageScenario messageScenario)
     {
         if (messageScenario == null) throw new ArgumentException();
-        
-        var textSystem = new TextSystem(_scenarioService.Steps);
         var messageBridge = new MessageScenarioBridge(messageScenario, textSystem);
+        
         return this;
     }
 }

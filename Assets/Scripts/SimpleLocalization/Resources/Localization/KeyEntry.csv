@@ -1,0 +1,48 @@
+KeyEntry0,Russian,English,German,French,Portuguese,Spanish,Italian,Romanian,Turkish,Polish,Czech,Korean,Chinese,ChineseTraditional,BrazilianPortuguese
+KeyEntry1,Открыть левые двери,Open left doors,Linke Türen öffnen,Ouvrir les portes à gauche,Abra as portas esquerdas,Abrir las puertas de la izquierda,Porte aperte a sinistra,Deschidere uși stânga,Sol kapıları aç,Otwórz lewe drzwi,Otevřít levé dveře,좌측 출입문 열림,开启左侧车门,開啟左側車門,Abrir portas da esquerda
+KeyEntry2,Вперед,Forward,Vorwärts,Marche avant,Para a frente,Avanzar,Avanti,Înainte,İleri,Na przód,Vpřed,전진,前进,前進,Frente
+KeyEntry3,Назад,Reverse,Rückwärts,Marche arrière,Reversor,Marcha atrás,Retromarcia,Înapoi,Geri,Do tyłu,Vzad,후진,后退,後退,Marcha à ré
+KeyEntry4,Действие при наведении курсора,Action on hover,"Aktion, beim mit der Maus drüberfahren",Action au survol,Passe a ação,Acción de cursor,Azione al passaggio del mouse,Acționare cursor,Fare ile üstüne geldiğinde aktif,Akcja po najechaniu myszką,Akce kurzoru,마우스 호버링 전환,悬停,懸停,Ação ao passar o mouse
+KeyEntry5,Выбрать правые двери,Select right doors,Rechten Türen wählen,Sélectionner les portes de droite,Selecione as portas da direita,Seleccionar las puertas de la derecha,Seleziona le porte di destra,Selectează ușile din dreapta,Sağ kapıları seç,Wybierz prawe drzwi,Zvolit pravé dveře,우측 출입문 선택,选择右侧车门,選擇右側車門,Selecionar portas da direita
+KeyEntry6,Выбрать левые двери,Select left doors,Linken Türen wählen,Sélectionner les portes de gauche,Selecione as portas da esquerda,Seleccionar las puertas de la izquierda,Seleziona le porte di sinistra,Selectează ușile din stânga,Sol kapıları seç,Wybierz lewe drzwi,Zvolit levé dveře,좌측 출입문 선택,选择左侧车门,選擇左側車門,Selecionar portas da esquerda
+KeyEntry7,Открыть правые двери,Open right doors,Rechte Türen offnen,Ouvrir les portes à gauche,Abra as portas da direita,Abrir las puertas de la derecha,Porte aperte a destra,Deschidere uși dreapta,Sağ kapıları aç,Otwórz prawe drzwi,Otevřít pravé dveře,우측 출입문 열림,开启右侧车门,開啟右側車門,Abrir portas da direita
+KeyEntry8,Закрыть двери,Close doors,Türen schließen,Fermer les portes,Feche as portar,Cerrar las puertas,Chiudere le porte,Închidere uși,Kapıları kapat,Zamknij drzwi,Zavřít dveře,출입문 닫힘,车门关闭,車門關閉,Fechar portas
+KeyEntry9,Реверс,Reverse,Umdrehen,Marche arrière,Reversor,Marcha atrás,Retromarcia,Înapoi,Geri,Cofanie,Zpáteční rychlost,후진,后退,後退,Marcha à ré
+KeyEntry10,Сменить камеру,Change camera,Kamera wechseln,Changer de caméra,Mude a câmera,Cambia la cámara,Cambia la camera,Schimbare cameră,Kamera görüntüsünü değiştir,Zmiana kamery,Změnit kameru,시점 변경,镜头选择,鏡頭選擇,Mudar de câmera
+KeyEntry11,Проиграть запись,Play recording,Aufnahme abspielen,Jouer l'enregistrement,Iniciar a gravação,Reproducir grabación,Registra,Redă înregistrarea,Durak kaydını çal,Otwórz zapis,Přehrát záznam,안내방송 재생,报站,報站,Tocar gravação
+KeyEntry12,Бдительность,Vigilance,Wachsamkeit,Vigilance,Vigilância,Vigilancia,Vigilanza,Sistem de vigilență,Vigilance Emniyet Sistemi,Czuwak,Bdělost,경고 확인,司机警惕装置,司機警惕裝置,Vigilância
+KeyEntry13,Свободная камера: Вверх,Free camera: up,Freie Kamera: Hoch,Caméra libre : haut,Câmera Livre: Cima,Cámara libre: arriba,Camera libera: sù,Cameră: sus,Serbest Kamera: Yukarı,Wolna kamera: do góry,Volná kamera: nahoru,자유 시점 : 상,自由镜头：上,自由鏡頭：上,Câmera livre: cima
+KeyEntry14,Свободная камера: Вниз,Free camera: down,Freie Kamera: Runter,Caméra libre : bas,Câmera Livre: Baixo,Cámara libre: abajo,Camera libera: giù,Cameră: jos,Serbest Kamera: Aşağı,Wolna kamera: w dół,Volná kamera: dolů,자유 시점 : 하,自由镜头：下,自由鏡頭：下,Câmera livre: baixo
+KeyEntry15,Свободная камера: Влево,Free camera: left,Freie Kamera: Links,Caméra libre : gauche,Câmera Livre: Esquerda,Cámara libre: izquierda,Camera libera: sinistra,Cameră: stânga,Serbest Kamera: Sol,Wolna kamera: w lewo,Volná kamera: vlevo,자유 시점 : 좌,自由镜头：左,自由鏡頭：左,Câmera livre: esquerda
+KeyEntry16,Свободная камера: Вправо,Free camera: right,Freie Kamera: Rechts,Caméra libre : droite,Câmera Livre: Direita,Cámara libre: derecha,Camera libera: destra,Cameră: dreapta,Serbest Kamera: Sağ,Wolna kamera: w prawo,Volná kamera: vpravo,자유 시점 : 우,自由镜头：右,自由鏡頭：右,Câmera livre: direita
+KeyEntry17,Экстренное торможение,Emergency braking,Notbremse,Freinage d'urgence,Freio de emergência,Freno de emergencia,Frenata di emergenza,Frână de urgență,Acil Durum Freni,Hamowanie awaryjne,Záchranná brzda,비상 제동,紧急制动,緊急制動,Freio de emergência
+KeyEntry18,Встать/Сесть,Sit down/stand up,Hinsetzen/Aufstehen,S'asseoir/se lever,Sente-se / levante-se,Sentarse/Levantarse,Siediti/Alzati,Jos/Sus,Otur/Ayağa Kalk,Usiądź/wstań,Sednout si / Postavit se,앉기/일어서기,坐下/站立,坐下/站立,Sentar/levantar
+KeyEntry19,Батареи,Batteries,Batterien,Batteries,Baterias,Baterías,Batterie,Baterie,Bataryalar,Baterie,Baterie,배터리,电池,電池,Baterias
+KeyEntry20,Фары,Headlights,Scheinwerfer,Phares,Faróis,Faros,Fari,Lumini,Farlar,Reflektory przednie,Světlomety,전조등,列车头灯,列車頭燈,Farois
+KeyEntry21,Сменить кабину,Change cabin,Kabine wechseln,Changer de cabine,Mude de cabine,Cambiar de cabina,Cambia cabina,Schimbă cabina,Kabin değiştir,Zmiana kabiny,Změnit kabinu,운전실 변경,更换车厢,更換車廂,Mudar de cabine
+KeyEntry22,Гудок,Horn,Horn,Sifflet,Sinal,Bocina,Clacson,Claxon,Korna,Sygnał dźwiękowy,Klakson,경적,喇叭,喇叭,Buzina
+KeyEntry23,Отмена,Cancel,Abbrechen,Annuler,Cancelar,Cancelar,Cancella,Anulare,İptal Et,Anuluj,Zrušit,취소,取消,取消,Cancelar
+KeyEntry24,Восприятие торможения,Braking cancellation,Notbremse stoppen,Annulation de freinage,Cancelamento de frenagem,Cancelación de frenada,Revoca infrazione,Anulare frână,Fren İptali,Anulowanie hamowania,Rušení brždění,제동 완해,取消制动,取消制動,Cancelamento de frenagem
+KeyEntry25,Снимок экрана HD 4K,4K Screenshot,4K Screenshot,Capture d'écran 4K,Tela de Caputura em 4K,Captura de pantalla 4K,4K Screenshot,Captură de ecran 4K,4K Ekran Görüntüsü,4K Screenshot,4K snímek,4K 스크린샷,4K截屏,4K截屏,Captura de tela em 4K
+KeyEntry26,Снимок экрана быстрый,Fast screenshot,Schneller screenshot,Capture d'écran rapide,Tela de Caputura rápida,Captura de pantalla rápida,Screenshot veloce,Captură de ecran rapidă,Hızlı Ekran Görüntüsü,Szybki Screenshot,Rychlý snímek,일반 스크린샷,快速截屏,快速截屏,Captura de tela rápida
+KeyEntry27,Вертикаль,Vertical,Vertikal,Vertical,Vertical,Vertical,Verticale,Vertical,Dikey,Pionowo,Verikálně,수직,垂直,垂直,Vertical
+KeyEntry28,Горизонталь,Horizontal,Horizontal,Horizontal,Horizontal,Horizontal,Orizzontale,Orizontal,Yatay,Poziomo,Horizontálně,수평,水平,水平,Horizontal
+KeyEntry29,Г-таль для геймпада,Horizontal for gamepad,Horizontal für Gamepad,Horizontal pour manette,Horizontal para gamepad,Horizontal para el joystick,Orizzontale per il gamepad,Orizontal pentru gamepad,Oyun Kumandası için Yatay,Poziomo dla kontrolera,Horizontálně pro gamepad,게임패드 가로축,水平（手柄）,水平（手柄）,Horizontal para controle de video game
+KeyEntry30,В-каль для геймпада,Vertical for gamepad,Vertikal für Gamepad,Vertical pour manette,Vertical para gamepad,Verical para el joystick,Verticale per il gamepad,Vertical pentru gamepad,Oyun Kumandası için Dikey,Pionowo dla kontrolera,Vertikálně pro gamepad,게임패드 세로축,垂直（手柄）,垂直（手柄）,Vertical para controle de video game
+KeyEntry31,Авто Захват,Auto capture,Automatische Erfassung,Auto-correction,Captura automática,Captura automática,Auto cattura,Captură automată,Otomatik Kayıt,Auto wykrywanie,Automatické snímání,자동 캡쳐,自动捕获,自動捕獲,Captura automática
+KeyEntry32,Мёртвая зона,Dead zone,Deadzone,Espace d'insensibilité,Zona neutra,Zona muerta,Zona morta,„Zonă moartă”,Kör nokta,Martwa strefa,Mrtvá zóna,데드존,死角,死角,Zona morta
+KeyEntry33,Чувствительность,Sensitivity,Empfindlichkeit,Sensibilité,Sensitividade,Sensibilidad,Sensibilità,Sensibilitate,Fare Hassaslığı,Czułość,Citlivost,감도,灵敏度,靈敏度,Sensibilidade
+KeyEntry34,Инвертировать,Invert,Umkehren,Inverser,Inverter,Invertir,Inverti,Inversare,Tersine çevir,Odwróć,Invertovat,반전,倒置,倒置,Inverter
+KeyEntry35,Шаг вперед,Step forward,Vorwärts laufen,Vers l'avant,Ande para frente,Un paso adelante,Muovi in avanti,Mergi înainte,İleri git,Krok w przód,Krok vpřed,,向前走,向前走,Andar para frente
+KeyEntry36,Шаг назад,Step back,Rückwärts laufen,Vers l'arrière,Ande para trás,Un paso atrás,Muovi indietro,Mergi înapoi,Geri ygit,Krok w tył,Krok vzad,,向后走,向後走,Andar para trás
+KeyEntry37,Шаг влево,Step left,Nach links laufen,Vers la gauche,Ande para a esquerda,Un paso a la izquierda,Muovi verso sinistra,Mergi spre stânga,Sola git,Krok w lewo,Krok vlevo,,向左走,向左走,Andar para esquerda
+KeyEntry38,Шаг вправо,Step right,Nach rechts laufen,Vers la droite,Ande para a direita,Un paso a la derecha,Muovi verso destra,Mergi spre dreapta,Sağa git,Krok w prawo,Krok vpravo,,向右走,向右走,Andar para direita
+KeyEntry39,Показать/скрыть курсор,Show/hide cursor,Cursor an/aus,Afficher/masquer le curseur,Mostrar/ocultar o cursor,Mostrar/Ocultar el cursor,Mostra/Nascondi il cursore,Arată/Ascunde cursor,Fare İmlecini Göster/Gizle,Pokaż/ukryj kursor,Ukázat/skrýt kursor,,显示/隐藏光标,顯示/隱藏光標,Monstar/esconder o mouse
+KeyEntry40,Ход 1,Gas 1,Gas 1,Gas 1,Gas 1,Gas 1,Gas 1,Gas 1,Gas 1,Gas 1,Gas 1,가스 1,气 1,气 1,Gas 1
+KeyEntry41,Ход 2,Gas 2,Gas 2,Gas 2,Gas 2,Gas 2,Gas 2,Gas 2,Gas 2,Gas 2,Gas 2,가스 2,气 2,气 2,Gas 2
+KeyEntry42,Ход 3,Gas 3,Gas 3,Gas 3,Gas 3,Gas 3,Gas 3,Gas 3,Gas 3,Gas 3,Gas 3,가스 3,气 3,气 3,Gas 3
+KeyEntry43,Ход 4,Gas 4,Gas 4,Gas 4,Gas 4,Gas 4,Gas 4,Gas 4,Gas 4,Gas 4,Gas 4,가스 4,气 4,气 4,Gas 4
+KeyEntry44,Нейтраль,Gas neutral,Gas neutral,Gas neutral,Gas neutral,Gas neutral,Gas neutral,Gas neutral,Gas neutral,Gas neutral,Gas neutral,중립,中性,中性,Gas neutral
+KeyEntry45,Тормоз 1,Break 1,Break 1,Break 1,Break 1,Break 1,Break 1,Break 1,Break 1,Break 1,Break 1,휴식 1,休息 1,休息 1,Break 1
+KeyEntry46,Тормоз 2,Break 2,Break 2,Break 2,Break 2,Break 2,Break 2,Break 2,Break 2,Break 2,Break 2,휴식 2,休息 2,休息 2,Break 2
+KeyEntry47,Тормоз 3,Break 3,Break 3,Break 3,Break 3,Break 3,Break 3,Break 3,Break 3,Break 3,Break 3,휴식 3,休息 3,休息 3,Break 3

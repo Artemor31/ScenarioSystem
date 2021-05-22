@@ -2,7 +2,6 @@
 
 public class ScenarioDefault : IScenario
 {
-    private const int FirstStep = 1;
     private readonly ISteper _steps;
     
     public ScenarioDefault(ISteper steps)
@@ -10,8 +9,8 @@ public class ScenarioDefault : IScenario
         _steps = steps ?? throw new ArgumentException();
     }
 
-    public void Start()
+    public void Start(Step firstStep)
     {
-        _steps.Change(FirstStep.ToString());
+        _steps.Change(firstStep);
     }
 }

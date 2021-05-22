@@ -1,0 +1,9 @@
+Key,English,German,Russian,French
+Settings.Title,Settings,Einstellungen,Настройки,Options
+Settings.Difficulty,Difficulty,Schwierigkeit,Сложность,Difficulté
+Settings.Difficulty.Easy,Easy,Einfach,Легко,Facile
+Settings.Difficulty.Normal,Medium,Mittel,Средне,Moyen
+Settings.Difficulty.Hard,Hard,Hart,Сложно,Difficile
+Settings.SfxVolume,Effects volume,Effektlautstärke,Громкость звуков,Volume des effets
+Settings.MusicVolume,Music volume,Musiklautstärke,Громкость музыки,Volume de la musique
+Settings.PlayTime,Play time: {0:N1} h.,Spielzeit: {0:N1} h.,Время в игре: {0:N1} ч.,Temps de jeu : {0:N1} hrs.
